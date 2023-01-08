@@ -1,4 +1,2 @@
-import { Hello } from "./hello";
+import { Hello } from "./p5";
 import "../css/styles.css";
-
-new Hello("taro").greet();

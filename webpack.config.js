@@ -27,7 +27,7 @@ module.exports = {
         // 画像やフォントファイル
         test: /\.(ico|png|svg|jpg)$/,
         generator: {
-          filename: `./img/[name]-[contenthash][ext]`,
+          filename: `./img/[name][ext]`,
         },
         type: "asset/resource",
       },

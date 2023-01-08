@@ -2,10 +2,6 @@ body {
   margin: 0;
 }
 
-.container {
-  height: 100vh;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+#p5canvas {
+  margin: 0 auto;
 }

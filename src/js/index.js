@@ -1,2 +1,2 @@
-import { Hello } from "./p5";
+import "./p5Init";
 import "../css/styles.css";
